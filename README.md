@@ -1,0 +1,2 @@
+## Analysing .csv dataset with Spark, Kafka, Hadoop and ML techniques
+### Here, a .csv dataset full of property properties and prices in Canada is analysed. First it will be uploaded to a kafka consumer with the help of python codes. Afterwards, the data will be streamed to Spark to be analysed and output the desired results. SparkML and PythonML are also used in structed streaming, so the .csv dataset will be trained and then give the price of a property depending on its area, neighbourhood, built year and so on. 
